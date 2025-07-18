@@ -8,7 +8,7 @@ import tempfile
 
 st.title("PDF Q&A :)")
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "replace_with_your_api_key"
 GROQ_MODEL = "llama3-70b-8192"  
 
 @st.cache_resource
