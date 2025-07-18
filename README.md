@@ -12,7 +12,7 @@ This tool is perfect for extracting insights from research papers, reports, book
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/yourrepo.git
+    git clone [https://github.com/kavya-sree-chandhi/DocumentQnA]
     cd yourrepo
     ```
 
