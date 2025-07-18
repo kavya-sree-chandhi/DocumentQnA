@@ -15,10 +15,17 @@ Upload any PDF, ask your question, and get instant, AI-powered answers extracted
 
 ---
 
-## 🚀 Quick Start
+## 🔄 Workflow
 
-### 1. **Clone the Repository**
+### **Visual Workflow**
 
-```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+```mermaid
+graph TD
+    A[User uploads PDF via Streamlit] --> B[PDF parsed and split into text chunks]
+    B --> C[Chunks embedded with HuggingFace embeddings]
+    C --> D[Stored in Chroma vector database]
+    D --> E[User asks a question]
+    E --> F[Relevant chunks retrieved via semantic search]
+    F --> G[Prompt constructed for Groq LLM]
+    G --> H[LLM generates answer using context]
+    H --> I[Answer displayed to user]
