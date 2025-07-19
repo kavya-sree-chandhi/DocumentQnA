@@ -6,7 +6,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
 import tempfile
 
-st.title("PDF Q&A :)")
+st.title("PDF Q&A Chatbot 🤖")
 
 GROQ_API_KEY = "replace_with_your_api_key"
 GROQ_MODEL = "llama3-70b-8192"  
