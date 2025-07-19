@@ -59,6 +59,15 @@ This tool is perfect for extracting insights from research papers, reports, book
 
 ---
 
+<img width="1630" height="307" alt="image" src="https://github.com/user-attachments/assets/4c2b3a82-83cb-423f-a7d1-5065f341aca9" />
+
+<img width="1918" height="952" alt="image" src="https://github.com/user-attachments/assets/18604f8d-5523-48bd-8ea6-cf232a807c26" />
+
+<img width="1915" height="968" alt="image" src="https://github.com/user-attachments/assets/0b036080-1fc8-4207-a789-dcc5f9b773b9" />
+
+
+
+
 ## 🔄 Workflow
 
 ### Visual Diagram
