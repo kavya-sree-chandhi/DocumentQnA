@@ -86,7 +86,7 @@ flowchart TD
     C --> D{PDF uploaded?}
     D -- "No" --> E[Show upload widget<br/>Prompt user to upload PDF]
     D -- "Yes" --> F[Ingest PDF and show progress]
-    F --> G[Show Q&A input and success message]
+    F --> G[Show Q and A input and success message]
     G --> H[User enters question about PDF]
     H --> I[App processes query using PDF content]
     I --> J[Bot generates answer and displays response]
